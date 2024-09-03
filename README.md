@@ -25,9 +25,8 @@ The Food Warehouse Management System is a command-line simulation program design
 
 ## Usage
 1. **Run the program**:
-   ```bash
-  ./bin/warehouse <path_to_configuration_file>
-  Replace <path_to_configuration_file> with the path to your configuration file. This file should include the initial setup for the warehouse.
+   ./bin/warehouse <path_to_configuration_file>
+   Replace <path_to_configuration_file> with the path to your configuration file. This file should include the initial setup for the warehouse.
 
 2. **Configuration File Format:**
   Volunteer: volunteer <name> <type> <arg1> <arg2> ...
