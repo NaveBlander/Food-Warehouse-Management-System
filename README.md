@@ -29,8 +29,9 @@ The Food Warehouse Management System is a command-line simulation program design
    Replace <path_to_configuration_file> with the path to your configuration file. This file should include the initial setup for the warehouse.
 
 2. **Configuration File Format:**
-- **Volunteer**: `volunteer <name> <type> <arg1> <arg2> ...`
-- **Customer**: `customer <name> <type> <arg1> <arg2> ...`
+- **Volunteer**: `Volunteers - volunteer <volunteer_name> <volunteer_role> <volunteer_coolDown>/<volunteer_maxDistance> <distance_per_step>(for drivers only) <volunteer_maxOrders>(optional)`
+- **Customer**: ` Customers - customer <customer_name> <customer_type> <customer_distance> <max_orders>`
+`
 
    ### Example
      ```bash
