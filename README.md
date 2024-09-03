@@ -40,10 +40,7 @@ The Food Warehouse Management System is a command-line simulation program design
       volunteer Yoav limited_driver 10 5 2
       volunteer Alon driver 8 3
     
-3. **Interacting with the Program:**:
-     ```bash
-    After starting the simulation, you can enter commands to place orders, check order statuses, and perform simulation steps.
-    You can take a look at the assignment guidelines for a detailed description of available commands and their usage.
+3. **Interacting with the Program:**: After starting the simulation, you can enter commands to place orders, check order statuses, and perform simulation steps. You can take a look at the assignment guidelines for a detailed description of available commands and their usage.
 
 ## Authors
 - Nave Blander
