@@ -15,7 +15,7 @@ The Food Warehouse Management System is a command-line simulation program design
    ```bash
    git clone https://github.com/YourUsername/Food-Warehouse-Management-System.git
 
-2. **Navigate to the Project Directory:**:
+2. **Navigate to the Project Directory:**
    ```bash
    cd Food-Warehouse-Management-System
 
