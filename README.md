@@ -32,14 +32,13 @@ The Food Warehouse Management System is a command-line simulation program design
 - **Volunteer**: `volunteer <name> <type> <arg1> <arg2> ...`
 - **Customer**: `customer <name> <type> <arg1> <arg2> ...`
 
-### Example
-
-```bash
-volunteer Nave limited_collector 3 2
-customer Moshe civilian 4 1
-volunteer Ofek limited_collector 2 2
-volunteer Yoav limited_driver 10 5 2
-volunteer Alon driver 8 3
+   ### Example
+      ```bash
+      volunteer Nave limited_collector 3 2
+      customer Moshe civilian 4 1
+      volunteer Ofek limited_collector 2 2
+      volunteer Yoav limited_driver 10 5 2
+      volunteer Alon driver 8 3
     
 3. **Interacting with the Program:**:
      ```bash
