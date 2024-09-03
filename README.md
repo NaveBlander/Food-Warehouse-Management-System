@@ -45,7 +45,7 @@ The Food Warehouse Management System is a command-line simulation program design
     You can take a look at the assignment guidelines for a detailed description of available commands and their usage.
 
 ## Authors
-Nave Blander
-Yoav Schwammenthal
+- Nave Blander
+- Yoav Schwammenthal
 
 
